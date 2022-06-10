@@ -1,7 +1,7 @@
 # Sudoku-Solver
 
 ## How to run `main.py`
-Mark `main.py` as an executable file in the terminal, and then input filenames after excetuable:
+Mark `main.py` as an executable file in the terminal, and write filenames after excetuable:
 ```
 > chmod u+x main.py
 > ./main.py Input1.txt
